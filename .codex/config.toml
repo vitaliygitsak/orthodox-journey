@@ -1,0 +1,7 @@
+model = "gpt-5.3-codex"
+approval_policy = "never"
+sandbox_mode    = "workspace-write"
+model_reasoning_effort = "xhigh"
+
+[sandbox_workspace_write]
+network_access = true
